@@ -1,0 +1,24 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[russian]{babel}
+\usepackage{amsfonts}
+
+\title{Вопрос 4.6}
+
+\begin{document}
+
+\maketitle
+
+\section{Разрешимость}
+Уравнение $\left( x^{5}-a^{2}\right) ^{3}=b$ разрешимо в радикалах. В качестве доказательства предоставим его решение:
+\\$\left( x^{5}-a^{2}\right) ^{3}=b$
+\\$x^{5}-a^{2}=\sqrt [3] {b}e^{\frac {2\pi in}{3}},n\in \left\{ 0,1,2\right\} $
+\\$x^{5}=a^{2}+\sqrt [3] {b}e^{\frac {2\pi in}{3}},n\in \left\{ 0,1,2\right\} $
+\\$x=\sqrt {a^{2}+\sqrt [3] {b}e^{\frac {2\pi in}{3}}}e^{\frac {2\pi im}{5}},n\in \left\{ 0,1,2\right\} ,m\in \left\{ 0,1,2,3,4\right\} $
+\\Таким образом, найдены ровно 15 корней многочлена, который имеет степень, равную 15, то есть все корни выражены через радикалы.
+
+\section{Группа Галуа}
+Как известно, уравнение разрешимо тогда и только тогда, когда его группа Галуа разрешима. Покажем это. Расширением Гаула будет являться $\mathbb {L/R}$, где $\mathbb{L} = \mathbb{K}(a ^{2}+\sqrt [3] {b}\left( 1-i\sqrt {3}\right), \: a ^{2}+\sqrt [3] {b}\left( 1+i\sqrt {3}\right)) $, а $\mathbb{K} = \mathbb{R}(i)$.
+\\Поле $\mathbb{L}$ разрешимо, поскольку $\mathbb{L} \supseteq \mathbb{K} \supseteq \mathbb{R}$. Фактически, $\mathbb{L/K}$ и $\mathbb{K/Q}$ являются расширениями Галуа. Интересующая нас группа Гаула это $G(\mathbb{L/Q}) = S_4$. Известно также, что $S_n$ при $n < 5$ разрешима, таким образом уравнение действительно разрешимо в радикалах.
+
+\end{document}

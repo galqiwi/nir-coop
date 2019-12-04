@@ -1,0 +1,39 @@
+\documentclass[a4paper, 12pt]{article}
+\usepackage[T2A,T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english, russian]{babel}
+\usepackage{graphicx}
+\usepackage[hcentering, bindingoffset = 10mm, right = 15 mm, left = 15 mm, top=20mm, bottom = 20 mm]{geometry}
+\usepackage{multirow}
+\usepackage{lipsum}
+\usepackage{amsmath, amstext}
+\usepackage{siunitx}
+\usepackage{mathrsfs}
+\usepackage{subcaption}
+\usepackage{wrapfig}
+\usepackage{adjustbox}
+\usepackage{enumerate, indentfirst, float}
+\usepackage{capt-of, svg}
+\usepackage{icomma}
+\newenvironment{bottompar}{\par\vspace*{\fill}}{\clearpage}
+
+\begin{document}
+
+    \begin{center}
+    \textsc{\Large Вопрос 4.5 НИР}\\[0.5cm] 
+    \end{center}
+
+    
+
+При движении в полях $ U = \frac{\alpha}{r}$ (ньютоновские поля тяготения и кулоновские электростатические поля) с любым знаком $\alpha$  имеется интеграл движения, специфический именно для этого поля. Легко проверить, непосредственным вычислением, что величина
+$$[\textbf{vM}] + \frac {\alpha \textbf{r}}{r} = const (1).$$
+Действительно, её полная производная по времени равна
+$$[\mathbf{\dot{v}M}] + \frac {\alpha \textbf{v}}{r} - \frac {\alpha \textbf{r} (\textbf{vr})}{r^3},$$
+или, подставив $\textbf{M} = m[\textbf{rv}]:$
+$$m\mathbf{r(v\dot{v})} - m\mathbf{v(r\dot{v})} + \frac {\alpha \textbf{v}}{r} - \frac {\alpha \textbf{r} (\textbf{vr})}{r^3};$$
+положив здесь согласно уравнениям движения $ m\mathbf{\dot{v}} = \frac {\alpha \textbf{r}}{r^3}$, мы найдём, что это выражение обращается в нуль.
+Сохраняющийся вектор (1) направлен вдоль большой оси от фокуса к перигелию, а по величине равен $\alpha e$, где $e$ - эксцентриситет орбиты.
+
+    
+
+\end{document}

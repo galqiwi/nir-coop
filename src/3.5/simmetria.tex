@@ -1,0 +1,57 @@
+\documentclass{article}
+
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[russian]{babel}
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage[textwidth=17cm,textheight=24cm]{geometry}
+\usepackage{cancel}
+
+\DeclareMathOperator{\tr}{tr}
+
+\begin{document} 
+В кулоновском поле у частицы сохраняется энергия, момент имупульса и вектор Рунге-Ленца. 
+
+Энегрия: 
+
+\begin{equation*}
+E = \frac{M}{2} \dot{r}^2 + \frac{L^2}{2Mr^2} - \frac{k}{r} = const
+\end{equation*}
+Где $\mathbf {L} = [\mathbf r \times \mathbf P ]$ - момент импульса частицы, $M$ - ее приведенная масса, $U = - \frac{k}{r}$ - потенциальная энергия, а $r$ - радиус вектор из начала координат. 
+
+Разберемся с моментом импульса тела, т.к. момент силы, действующей на частицу нулевой, то:
+\begin{equation*}
+\mathbf {M} = [\mathbf r \times \mathbf F ] = 0 ; \quad  [\mathbf r \times \frac{d \mathbf P}{dt} ] = 0
+\end{equation*}
+Следовательно момент импульса $L$:
+\begin{equation*}
+\frac{d}{dt} [\mathbf r \times \mathbf P ] = [\mathbf r \times \frac{d \mathbf P}{dt} ] +  [\frac{d\mathbf r}{dt} \times \mathbf P] = [\mathbf r \times \frac{d \mathbf P}{dt} ] = 0
+\end{equation*}
+Т.е. $\frac{d\mathbf L}{dt} = 0$, значит $L = [\mathbf r \times \mathbf P ]= const$
+
+Определим вектор Рунге-Ленца, как:
+\begin{equation*}
+\mathbf A = [\mathbf P \times \mathbf L] - Mk\widehat{\mathbf r}
+\end{equation*}
+Данный вектор также сохраняется в кулоновском поле:
+\begin{equation*}
+\mathbf F =\frac{d \mathbf P}{dt} = f(r)\frac{\mathbf r}{|r|} = f(r)\widehat{\mathbf r}
+\end{equation*}
+Т.к. $L = const$
+\begin{equation*}
+\frac{d}{dt} [\mathbf P \times \mathbf L ] = \frac{d \mathbf P}{dt} \times \mathbf L =  f(r)\widehat{\mathbf r} \times \left(\mathbf r \times M \frac{d\mathbf r}{dt} \right) =  f(r)\frac{M}{r}\left[ \mathbf r\left(\mathbf r \frac{d\mathbf r}{dt}\right) - r^2\frac{d\mathbf r}{dt} \right]
+\end{equation*}
+Откуда получаем:
+\begin{equation*}
+\frac{d}{dt} [\mathbf P \times \mathbf L ] = -M f(r) r^2 \left[\frac{1}{r}\frac{d\mathbf r}{dt} - \frac{\mathbf r}{r^2}\frac{dr}{dt}  \right]
+\end{equation*}
+При $f(r) = -\frac{k}{r^2}$, последнее выражение равно:
+\begin{equation*}
+\frac{d}{dt} [\mathbf P \times \mathbf L ] = Mk\frac{d}{dt}\left( \frac{\mathbf r}{r}\right) = \frac{d}{dt}(Mk\widehat{\mathbf r})
+\end{equation*}
+Тогда изменение вектора:
+\begin{equation*}
+\frac{d}{dt}\mathbf A = \frac{d}{dt} [\mathbf P \times \mathbf L ] - \frac{d}{dt}(Mk\widehat{\mathbf r}) = 0
+\end{equation*}
+Отсюда получаем, что в кулоновском поле существует однородность времени, изотропность пространства, а также некоторая симметрия вектора Рунге-Ленца
+\end{document}

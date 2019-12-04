@@ -1,0 +1,203 @@
+%FOR PDFLATEX USE ONLY
+\documentclass[a4paper,10pt]{article}
+
+\usepackage[left= 2cm, right= 1cm, top=2cm, bottom=2cm, bindingoffset=0cm]{geometry}
+
+\usepackage{amssymb,amsmath} %math symbols
+\usepackage{mathtext} %% русские буквы в формулах, обязательно перед включением пакетов babel, fontenc
+
+\usepackage[utf8]{inputenc} %allows unicode (including russian) source file
+\usepackage[russian]{babel} %docment in russian-style
+\usepackage[utf8]{inputenc}
+\usepackage[unicode]{hyperref} %links inside of the text
+\usepackage[pdftex]{graphicx} %includegraphics pictures
+\usepackage{cmlgc} %bold text
+
+\textwidth=17cm
+\textheight=24cm
+\hoffset=-30pt
+\voffset=-30pt
+\usepackage{caption}
+\usepackage{multirow}
+
+\usepackage{filecontents}
+\usepackage{lipsum}
+\usepackage{amsmath,amsthm,amssymb}
+\usepackage{mathtext}
+\parindent=0cm
+
+\usepackage[utf8]{inputenc}
+\usepackage{mathtext}
+\geometry{a4paper}
+\usepackage{pgfplots,tikz,circuitikz}
+\pgfplotsset{compat=newest}
+\usepackage{pgfplotstable}
+\usepackage{mathrsfs}
+
+
+\usepackage{array} %arrays
+\usepackage[inline]{enumitem}
+
+\usepackage{combelow} 
+\usepackage{newunicodechar}
+ \newunicodechar{ș}{\cb{s}} 
+ \usepackage{mathtools}
+  \usepackage{blindtext}
+\usepackage{gensymb}
+\usepackage{amsmath} 
+\usepackage{stmaryrd} 
+\usepackage{wrapfig}
+\usepackage{mathrsfs}
+\usepackage{array}
+\usepackage{lipsum}
+\usepackage{esvect}
+\usepackage{hyperref}
+\usepackage{ textcomp }
+\usepackage{enumitem}
+\usepackage{ dsfont }
+\usepackage{cancel}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\usepackage{cancel}
+\usepackage{graphicx}
+\graphicspath{{pictures/}}
+\usepackage{stackengine}
+\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+
+\newenvironment{Def}{\textbf{Определение. }}
+
+\newenvironment{Ex}{\textbf{Пример. }}
+
+\newenvironment{Exs}{\textbf{Примеры: }}
+
+\newenvironment{Th}{\textbf{Теорема. }}
+
+\newenvironment{St}{\textbf{Утверждение. }}
+
+\newenvironment{Proof}{\textbf{Доказательство. }}
+
+\newenvironment{Con}{\textbf{Следствие. }}
+
+\newenvironment{Rem}{\textbf{Замечание. }}
+
+\newenvironment{Lm}{\textbf{Лемма. }}
+
+\newenvironment{Task}{\textbf{Упражнение. }}
+
+
+\newcommand{\opr}{\textbf{Определение. }}
+\newcommand{\prim}{\textbf{Пример. }}
+\newcommand{\prims}{\textbf{Примеры: }}
+\newcommand{\theo}{\textbf{Теорема. }}
+\newcommand{\utv}{\textbf{Утверждение. }}
+\newcommand{\dok}{\textbf{Доказательство. }}
+\newcommand{\sled}{\textbf{Следствие. }}
+\newcommand{\zam}{\textbf{Замечание. }}
+\newcommand{\lem}{\textbf{Лемма. }}
+\newcommand{\upr}{\textbf{Упражнение. }}
+\newcommand{\R}{\mathds{R}}
+\newcommand{\Z}{\mathds{Z}}
+\newcommand{\Q}{\mathds{Q}}
+\newcommand{\N}{\mathds{N}}
+\newcommand{\0}{\varnothing}
+\newcommand{\bo}{\geqslant}
+\newcommand{\me}{\leqslant}
+\newcommand{\cast}{\circledast}
+\newcommand{\ext}{\: \exists \: }
+\newcommand{\etc}{, \: . \: . \: . \: ,}
+\newcommand{\diff}{\setminus}
+\newcommand{\okr}{\stackrel{\circ}}
+\newcommand{\ud}{\underset}
+\newcommand{\ttt}{\Leftrightarrow}
+\newcommand{\x}{\times}
+\newcommand{\vl}{\subseteq}
+\newcommand{\nvl}{\nsubseteq }
+\newcommand{\su}{\upharpoonright}
+\newcommand{\tch}{ \: | \: }
+%\newcommand{\qed}{  \: \: \square}
+\newcommand{\mj}{\preccurlyeq}
+\newcommand{\bi}{\ud{\text{на}}{\to}}
+\newcommand{\op}{\xrightarrow}
+\newcommand{\gA}{\mathfrak{A}}
+\newcommand{\gB}{\mathfrak{B}}
+\newcommand{\gC}{\mathfrak{C}}
+\newcommand{\gMe}{\sqsubseteq}
+\newcommand{\ww}{\approx}
+\newcommand{\lgl}{\langle}
+\newcommand{\rg}{\rangle}
+\newcommand{\zeronum}{\setcounter{num}{0}}
+\newcommand{\thd}{\: \vdots \:}
+
+
+
+
+
+
+
+\DeclareMathOperator*\lowlim{\underline{lim}}
+\DeclareMathOperator*\uplim{\overline{lim}}
+
+
+
+\parindent=0cm
+
+
+\def\ee{\varepsilon}
+\def\mss{мультипликативная система}
+\oddsidemargin=1cc
+\def\ee{\varepsilon}
+\def\fff{$f:X\to Y$ - непрерывно между $(X,\tau_x),(Y,\tau_Y)$}
+\def\ff{$f:E\to\mathbb{R}$ - непрерывно}
+
+\newcounter{num}
+\def\num{\addtocounter{num}{1}{\arabic{num}\:}}
+
+\usepackage{amssymb,amsmath} %math symbols
+
+\usepackage[all]{xy}
+\usepackage[utf8]{inputenc} %allows unicode (including russian) source file
+\usepackage[russian]{babel} %docment in russian-style
+\usepackage[utf8]{inputenc}
+\usepackage[unicode]{hyperref} %links inside of the text
+\usepackage[pdftex]{graphicx} %includegraphics pictures
+\usepackage{cmlgc} %bold text
+
+\usepackage{array} %arrays
+\usepackage{verbatim}
+\usepackage{wrapfig}
+\usepackage{array}
+\usepackage{lipsum}
+\usepackage{esvect}
+\usepackage{hyperref}
+\usepackage{ textcomp }
+\usepackage{enumitem}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{ dsfont }
+\usepackage{cancel}
+\usepackage{amsmath}
+\usepackage{subfig}
+\usepackage{floatrow}
+\usepackage{tikz}
+\usetikzlibrary{arrows}
+
+\renewcommand\[{\begin{equation}}
+\renewcommand\]{\end{equation}}
+
+
+\parindent=0cm
+
+\begin{document}
+1.6
+
+Пусть $f(n) = n! x^n$
+
+Тогда заметим, что $f(n) = f(n-1) \cdot n \cdot x$
+
+Тогда для любого $N > 0$ с некоторого места $f(n) = f(n-1) \cdot N \Rightarrow \sum\limits_{n = 0}^{\infty} f(n) = \sum\limits_{n = 0}^{\infty}  n! x^n = \infty.$ 
+
+
+
+5.6 Когда определитель их матрицы Сильвестра равен 0.
+\end{document}

@@ -1,0 +1,27 @@
+\documentclass[12pt]{article}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm,bindingoffset=0cm]{geometry}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[russian]{babel}
+\usepackage{amsfonts}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{color}
+\usepackage{amsmath}
+\usepackage{hyperref}
+\usepackage{cite}
+ 
+ \title{Задание 5.3 Почему уравнения движения для фермионов первого порядка?}
+ \begin{document}
+ \maketitle
+ Движение фермионов описывается уравнениями Дирака,которые являются релятивистским обобщением \textbf{уравнения Шредингера}:
+ \begin{equation}
+ i \hbar \frac{\partial}{\partial t} \Psi=\hat{H}(p, q) \Psi
+ \end{equation}
+ В уравнении Шредингера стоит первая производная по времени, потому что по теореме Нетер гамиальтониан-величина,сохраняющаяся при инвариантости системы относительно трансляций по времени(а генератором трансляций по времени выступает оператор производной по времени)
+ 
+ Однако уравнение Шредингера не удовлетворяет принципам СТО так как оно не инвариантно относительно преобразований Лоренца(тк вторые производные по координатам и первая по времени).Поэтому его релятивистское обобщение имеет вид:
+ \begin{equation}
+ i \hbar \frac{\partial \psi}{\partial t}=\left[c\left(\alpha_{x} \frac{\partial}{\partial x}+\alpha_{y} \frac{\partial}{\partial y}+\alpha_{z} \frac{\partial}{\partial z}\right)+\beta m c^{2}\right] \psi
+ \end{equation}
+ \end{document}
