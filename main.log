@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.12.3)  6 DEC 2019 00:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.12.3)  6 DEC 2019 01:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1785,240 +1785,197 @@ Underfull \hbox (badness 10000) in paragraph at lines 451--460
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 467--468
-
- []
-
-<gr1.pdf, id=91, 361.35pt x 224.84pt>
+<gr1.pdf, id=91, 361.35pt x 232.87pt>
 File: gr1.pdf Graphic file (type pdf)
 <use gr1.pdf>
-Package pdftex.def Info: gr1.pdf  used on input line 473.
-(pdftex.def)             Requested size: 361.34912pt x 224.83945pt.
+Package pdftex.def Info: gr1.pdf  used on input line 474.
+(pdftex.def)             Requested size: 361.34912pt x 232.86942pt.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 474.
+(babel)             in language  on input line 476.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 474.
+(babel)             in language  on input line 476.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 474.
+(babel)             in language  on input line 476.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 474.
+(babel)             in language  on input line 476.
 [9]
-<gr2.pdf, id=106, 361.35pt x 222.8325pt>
+<gr2.pdf, id=107, 361.35pt x 222.8325pt>
 File: gr2.pdf Graphic file (type pdf)
 <use gr2.pdf>
-Package pdftex.def Info: gr2.pdf  used on input line 477.
+Package pdftex.def Info: gr2.pdf  used on input line 478.
 (pdftex.def)             Requested size: 361.34912pt x 222.83195pt.
-<gr3.pdf, id=107, 361.35pt x 220.825pt>
-File: gr3.pdf Graphic file (type pdf)
-<use gr3.pdf>
-Package pdftex.def Info: gr3.pdf  used on input line 481.
-(pdftex.def)             Requested size: 361.34912pt x 220.82445pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 484--485
-
- []
-
+<gr4.pdf, id=108, 361.35pt x 225.84375pt>
+File: gr4.pdf Graphic file (type pdf)
+<use gr4.pdf>
+Package pdftex.def Info: gr4.pdf  used on input line 490.
+(pdftex.def)             Requested size: 361.34912pt x 225.84319pt.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 489.
+(babel)             in language  on input line 491.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 489.
+(babel)             in language  on input line 491.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 489.
+(babel)             in language  on input line 491.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 489.
-[10 <./gr1.pdf> <./gr2.pdf
+(babel)             in language  on input line 491.
+ [10 <./gr1.pdf> <./gr2.pdf
 
 pdfTeX warning: pdflatex (file ./gr2.pdf): PDF inclusion: multiple pdfs with pa
 ge group included in a single page
-> <./gr3.pdf
-
-pdfTeX warning: pdflatex (file ./gr3.pdf): PDF inclusion: multiple pdfs with pa
-ge group included in a single page
 >]
-<gr4.pdf, id=152, 361.35pt x 207.77625pt>
-File: gr4.pdf Graphic file (type pdf)
-<use gr4.pdf>
-Package pdftex.def Info: gr4.pdf  used on input line 491.
-(pdftex.def)             Requested size: 361.34912pt x 207.77573pt.
-<gr5.pdf, id=153, 361.35pt x 215.80624pt>
+<gr5.pdf, id=149, 361.35pt x 232.87pt>
 File: gr5.pdf Graphic file (type pdf)
 <use gr5.pdf>
-Package pdftex.def Info: gr5.pdf  used on input line 495.
-(pdftex.def)             Requested size: 361.34912pt x 215.80571pt.
+Package pdftex.def Info: gr5.pdf  used on input line 494.
+(pdftex.def)             Requested size: 361.34912pt x 232.86942pt.
 
-Overfull \hbox (0.46396pt too wide) in paragraph at lines 505--512
+Overfull \hbox (0.46396pt too wide) in paragraph at lines 504--511
 \T2A/fcm/m/n/10 Дезоксирибонуклеотид об-ра-зо-ван дез-ок-си-ри-бо-зой, азо-ти-с
 тым ос-но-ва-ни-ем и остат-ком фос-фор-ной кис-
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 518.
+(babel)             in language  on input line 517.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 518.
+(babel)             in language  on input line 517.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 518.
+(babel)             in language  on input line 517.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 518.
+(babel)             in language  on input line 517.
 [11 <./gr4.pdf> <./gr5.pdf
 
 pdfTeX warning: pdflatex (file ./gr5.pdf): PDF inclusion: multiple pdfs with pa
 ge group included in a single page
 >]
-<average_temperature.png, id=183, 1611.77156pt x 651.18282pt>
+<average_temperature.png, id=192, 1611.77156pt x 651.18282pt>
 File: average_temperature.png Graphic file (type png)
 <use average_temperature.png>
-Package pdftex.def Info: average_temperature.png  used on input line 535.
+Package pdftex.def Info: average_temperature.png  used on input line 534.
 (pdftex.def)             Requested size: 338.48203pt x 136.75243pt.
-<SeaLevel.png, id=184, 554.82281pt x 274.77657pt>
+<SeaLevel.png, id=193, 554.82281pt x 274.77657pt>
 File: SeaLevel.png Graphic file (type png)
 <use SeaLevel.png>
-Package pdftex.def Info: SeaLevel.png  used on input line 548.
+Package pdftex.def Info: SeaLevel.png  used on input line 547.
 (pdftex.def)             Requested size: 221.92519pt x 109.90866pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<SeaLevel1.png, id=185, 577.40718pt x 418.56375pt>
+<SeaLevel1.png, id=194, 577.40718pt x 418.56375pt>
 File: SeaLevel1.png Graphic file (type png)
 <use SeaLevel1.png>
-Package pdftex.def Info: SeaLevel1.png  used on input line 553.
+Package pdftex.def Info: SeaLevel1.png  used on input line 552.
 (pdftex.def)             Requested size: 288.70288pt x 209.28136pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 560.
+(babel)             in language  on input line 559.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 560.
+(babel)             in language  on input line 559.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 560.
+(babel)             in language  on input line 559.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 560.
+(babel)             in language  on input line 559.
 [12 <./average_temperature.png>]
-<SeaIce.png, id=197, 554.82281pt x 274.77657pt>
+<SeaIce.png, id=205, 554.82281pt x 274.77657pt>
 File: SeaIce.png Graphic file (type png)
 <use SeaIce.png>
-Package pdftex.def Info: SeaIce.png  used on input line 562.
+Package pdftex.def Info: SeaIce.png  used on input line 561.
 (pdftex.def)             Requested size: 221.92519pt x 109.90866pt.
-<CO2.png, id=198, 554.82281pt x 274.77657pt>
+<CO2.png, id=206, 554.82281pt x 274.77657pt>
 File: CO2.png Graphic file (type png)
 <use CO2.png>
-Package pdftex.def Info: CO2.png  used on input line 574.
+Package pdftex.def Info: CO2.png  used on input line 573.
 (pdftex.def)             Requested size: 221.92519pt x 109.90866pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<CO2_long.png, id=199, 565.36218pt x 425.33907pt>
+<CO2_long.png, id=207, 565.36218pt x 425.33907pt>
 File: CO2_long.png Graphic file (type png)
 <use CO2_long.png>
-Package pdftex.def Info: CO2_long.png  used on input line 579.
+Package pdftex.def Info: CO2_long.png  used on input line 578.
 (pdftex.def)             Requested size: 282.68039pt x 212.669pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 587.
+(babel)             in language  on input line 586.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 587.
+(babel)             in language  on input line 586.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 587.
+(babel)             in language  on input line 586.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 587.
+(babel)             in language  on input line 586.
 [13 <./SeaLevel.png> <./SeaLevel1.png> <./SeaIce.png>]
-LaTeX Font Info:    Try loading font information for OMS+fcm on input line 587.
+LaTeX Font Info:    Try loading font information for OMS+fcm on input line 586.
 
-LaTeX Font Info:    No file OMSfcm.fd. on input line 587.
+LaTeX Font Info:    No file OMSfcm.fd. on input line 586.
 
 
 LaTeX Font Warning: Font shape `OMS/fcm/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 587.
+(Font)              for symbol `textbullet' on input line 586.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--597
+Underfull \hbox (badness 10000) in paragraph at lines 594--596
 
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 598.
+(babel)             in language  on input line 597.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 598.
+(babel)             in language  on input line 597.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 598.
+(babel)             in language  on input line 597.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 598.
+(babel)             in language  on input line 597.
 [14 <./CO2.png> <./CO2_long.png>]
-Overfull \hbox (47.75719pt too wide) in paragraph at lines 610--611
+Overfull \hbox (47.75719pt too wide) in paragraph at lines 609--610
 \T2A/fcm/m/n/10 че-ство уже на-шло. Из ста-тьи 2005 го-да $\OT1/cmr/m/n/10 "$\T
 2A/fcm/m/n/10 The blackbody radiation in a D-dimensional universes (dx.doi.org/
 10.1590/S1806-
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 640.
+(babel)             in language  on input line 639.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 640.
+(babel)             in language  on input line 639.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 640.
+(babel)             in language  on input line 639.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 640.
+(babel)             in language  on input line 639.
 [15]
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 664.
+LaTeX Warning: Command \cyra invalid in math mode on input line 663.
 
 Missing character: There is no а in font cmr10!
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 708.
+(babel)             in language  on input line 707.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 708.
+(babel)             in language  on input line 707.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 708.
+(babel)             in language  on input line 707.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 708.
+(babel)             in language  on input line 707.
 [16]
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 749.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 748.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 749.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 748.
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 749.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 748.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 749.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 748.
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 749.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 748.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 749.
-
-Missing character: There is no п in font cmr5!
-Missing character: There is no р in font cmr5!
-Missing character: There is no п in font cmr5!
-Missing character: There is no р in font cmr5!
-Missing character: There is no п in font cmr5!
-Missing character: There is no р in font cmr5!
-
-LaTeX Warning: Command \cyrp invalid in math mode on input line 751.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 751.
-
-
-LaTeX Warning: Command \cyrp invalid in math mode on input line 751.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 751.
-
-
-LaTeX Warning: Command \cyrp invalid in math mode on input line 751.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 751.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 748.
 
 Missing character: There is no п in font cmr5!
 Missing character: There is no р in font cmr5!
@@ -2027,153 +1984,153 @@ Missing character: There is no р in font cmr5!
 Missing character: There is no п in font cmr5!
 Missing character: There is no р in font cmr5!
 
-Overfull \hbox (3.23526pt too wide) in paragraph at lines 747--757
+LaTeX Warning: Command \cyrp invalid in math mode on input line 750.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 750.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 750.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 750.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 750.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 750.
+
+Missing character: There is no п in font cmr5!
+Missing character: There is no р in font cmr5!
+Missing character: There is no п in font cmr5!
+Missing character: There is no р in font cmr5!
+Missing character: There is no п in font cmr5!
+Missing character: There is no р in font cmr5!
+
+Overfull \hbox (3.23526pt too wide) in paragraph at lines 746--756
 \T2A/fcm/m/n/10 Стоит от-ме-тить, что для жи-вот-ных, спо-соб-ных пры-гать с бо
 ль-шой на-чаль-ной ско-ро-стью (на-при-мер, неболь-
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 758.
+(babel)             in language  on input line 757.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 758.
+(babel)             in language  on input line 757.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 758.
+(babel)             in language  on input line 757.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 758.
+(babel)             in language  on input line 757.
 [17]
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 793.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 792.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 793.
-
-Missing character: There is no и in font cmr10!
-Missing character: There is no л in font cmr10!
-Missing character: There is no и in font cmr10!
-Missing character: There is no Г in font cmr10!
-
-LaTeX Warning: Command \cyrl invalid in math mode on input line 793.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 793.
+LaTeX Warning: Command \cyri invalid in math mode on input line 792.
 
 Missing character: There is no и in font cmr10!
 Missing character: There is no л in font cmr10!
 Missing character: There is no и in font cmr10!
 Missing character: There is no Г in font cmr10!
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 795.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 792.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 792.
+
+Missing character: There is no и in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no Г in font cmr10!
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 794.
 
 Missing character: There is no Г in font cmr10!
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 797.
+(babel)             in language  on input line 796.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 797.
+(babel)             in language  on input line 796.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 797.
+(babel)             in language  on input line 796.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 797.
+(babel)             in language  on input line 796.
 [18]
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 812.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 811.
 
 Missing character: There is no Г in font cmr10!
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 812.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 811.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 812.
-
-Missing character: There is no Г in font cmr10!
-Missing character: There is no Г in font cmr10!
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 812.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 812.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 811.
 
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 812.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 811.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 812.
-
-Missing character: There is no Г in font cmr10!
-Missing character: There is no Г in font cmr10!
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 812.
-
-Missing character: There is no Г in font cmr10!
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 812.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 812.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 811.
 
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 812.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 811.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 812.
-
-Missing character: There is no Г in font cmr10!
-Missing character: There is no Г in font cmr10!
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 812.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 812.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 811.
 
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 818.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 811.
+
+Missing character: There is no Г in font cmr10!
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 811.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 818.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 818.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 818.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 818.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 818.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 811.
 
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 811.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 811.
+
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 811.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 811.
+
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 818.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 817.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 818.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 817.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 818.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 817.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 818.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 817.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 818.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 817.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 818.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 817.
 
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
@@ -2182,178 +2139,172 @@ Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 825.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 817.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 825.
-
-Missing character: There is no Г in font cmr10!
-Missing character: There is no Г in font cmr10!
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 825.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 817.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 825.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 817.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 825.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 817.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 825.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 817.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 817.
 
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
+Missing character: There is no Г in font cmr10!
+Missing character: There is no Г in font cmr10!
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 825.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 824.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 825.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 824.
 
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 825.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 824.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 825.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 824.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 825.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 824.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 825.
-
-Missing character: There is no Г in font cmr10!
-Missing character: There is no Г in font cmr10!
-Missing character: There is no Г in font cmr10!
-Missing character: There is no Г in font cmr10!
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 833.
-
-Missing character: There is no Г in font cmr10!
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 843.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 843.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 843.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 843.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 824.
 
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 843.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 824.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 843.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 824.
+
+Missing character: There is no Г in font cmr10!
+Missing character: There is no Г in font cmr10!
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 824.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 843.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 824.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 843.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 824.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 824.
 
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 870.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 832.
+
+Missing character: There is no Г in font cmr10!
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 842.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 870.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 842.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 842.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 842.
+
+Missing character: There is no Г in font cmr10!
+Missing character: There is no Г in font cmr10!
+Missing character: There is no Г in font cmr10!
+Missing character: There is no Г in font cmr10!
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 842.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 842.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 842.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 842.
+
+Missing character: There is no Г in font cmr10!
+Missing character: There is no Г in font cmr10!
+Missing character: There is no Г in font cmr10!
+Missing character: There is no Г in font cmr10!
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 869.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 869.
 
 Missing character: There is no и in font cmr10!
 Missing character: There is no л in font cmr10!
 Missing character: There is no и in font cmr10!
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 870.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 869.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 870.
+LaTeX Warning: Command \cyri invalid in math mode on input line 869.
 
 Missing character: There is no и in font cmr10!
 Missing character: There is no л in font cmr10!
 Missing character: There is no и in font cmr10!
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 870.
+(babel)             in language  on input line 869.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 870.
+(babel)             in language  on input line 869.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 870.
+(babel)             in language  on input line 869.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 870.
+(babel)             in language  on input line 869.
 [19]
-Underfull \hbox (badness 10000) in paragraph at lines 872--873
+Underfull \hbox (badness 10000) in paragraph at lines 871--872
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 874--875
+Underfull \hbox (badness 10000) in paragraph at lines 873--874
 
  []
 
 
-Overfull \hbox (1.15263pt too wide) in paragraph at lines 880--881
+Overfull \hbox (1.15263pt too wide) in paragraph at lines 879--880
 \T2A/fcm/m/n/10 В спе-ци-аль-ной тео-рии от-но-си-тель-но-сти 4-импульс си-сте-
 мы мож-но вы-ра-зить че-рез тен-зор энергии-импульса
  []
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
-
-Missing character: There is no Г in font cmr10!
-Missing character: There is no Г in font cmr10!
-Missing character: There is no Г in font cmr10!
-Missing character: There is no Г in font cmr10!
-Missing character: There is no Г in font cmr10!
-Missing character: There is no Г in font cmr10!
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
@@ -2361,31 +2312,29 @@ Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
-Missing character: There is no Г in font cmr10!
-Missing character: There is no Г in font cmr10!
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
@@ -2396,68 +2345,28 @@ Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
-
-Missing character: There is no Г in font cmr10!
-Missing character: There is no Г in font cmr10!
-Missing character: There is no Г in font cmr10!
-Missing character: There is no Г in font cmr10!
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
-
-Missing character: There is no Г in font cmr10!
-Missing character: There is no Г in font cmr10!
-Missing character: There is no Г in font cmr10!
-Missing character: There is no Г in font cmr10!
-Missing character: There is no Г in font cmr10!
-Missing character: There is no Г in font cmr10!
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
@@ -2468,28 +2377,68 @@ Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
+
+Missing character: There is no Г in font cmr10!
+Missing character: There is no Г in font cmr10!
+Missing character: There is no Г in font cmr10!
+Missing character: There is no Г in font cmr10!
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
+
+Missing character: There is no Г in font cmr10!
+Missing character: There is no Г in font cmr10!
+Missing character: There is no Г in font cmr10!
+Missing character: There is no Г in font cmr10!
+Missing character: There is no Г in font cmr10!
+Missing character: There is no Г in font cmr10!
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
@@ -2500,334 +2449,432 @@ Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 900.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
+
+Missing character: There is no Г in font cmr10!
+Missing character: There is no Г in font cmr10!
+Missing character: There is no Г in font cmr10!
+Missing character: There is no Г in font cmr10!
+Missing character: There is no Г in font cmr10!
+Missing character: There is no Г in font cmr10!
+Missing character: There is no Г in font cmr10!
+Missing character: There is no Г in font cmr10!
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 899.
 
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 925.
+(babel)             in language  on input line 924.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 925.
+(babel)             in language  on input line 924.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 925.
+(babel)             in language  on input line 924.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 925.
+(babel)             in language  on input line 924.
 [20]
-Underfull \hbox (badness 10000) in paragraph at lines 952--957
+Underfull \hbox (badness 10000) in paragraph at lines 951--956
 
  []
 
-<vortex.jpg, id=259, 170.13562pt x 158.84344pt>
+<vortex.jpg, id=267, 170.13562pt x 158.84344pt>
 File: vortex.jpg Graphic file (type jpg)
 <use vortex.jpg>
-Package pdftex.def Info: vortex.jpg  used on input line 963.
+Package pdftex.def Info: vortex.jpg  used on input line 961.
 (pdftex.def)             Requested size: 169.29684pt x 158.06744pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 964--964
-[]\T2A/fcm/m/n/10 Рис. 7: |Ис-крив-ле-ние пространства-
- []
+Package hyperref Warning: Suppressing empty link on input line 966.
+
+
+Package hyperref Warning: Suppressing empty link on input line 966.
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 979.
+(babel)             in language  on input line 967.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 979.
+(babel)             in language  on input line 967.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 979.
+(babel)             in language  on input line 967.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 979.
+(babel)             in language  on input line 967.
 [21 <./vortex.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 1026--1027
+Underfull \hbox (badness 10000) in paragraph at lines 1024--1025
 
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1034.
+(babel)             in language  on input line 1025.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1034.
+(babel)             in language  on input line 1025.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1034.
+(babel)             in language  on input line 1025.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1034.
+(babel)             in language  on input line 1025.
 [22]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1069.
+(babel)             in language  on input line 1062.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1069.
+(babel)             in language  on input line 1062.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1069.
+(babel)             in language  on input line 1062.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1069.
+(babel)             in language  on input line 1062.
  [23]
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1119.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1117.
 
 Missing character: There is no Г in font cmr10!
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1119.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1117.
 
 Missing character: There is no Г in font cmr10!
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1119.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1117.
 
 Missing character: There is no Г in font cmr10!
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1119.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1117.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1119.
-
-Missing character: There is no Г in font cmr10!
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1119.
-
-Missing character: There is no Г in font cmr10!
-Missing character: There is no Г in font cmr10!
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1119.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1117.
 
 Missing character: There is no Г in font cmr10!
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1119.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1119.
-
-Missing character: There is no Г in font cmr10!
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1119.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1119.
-
-Missing character: There is no Г in font cmr10!
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1119.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1119.
-
-Missing character: There is no Г in font cmr10!
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1119.
-
-Missing character: There is no Г in font cmr10!
-Missing character: There is no Г in font cmr10!
-Missing character: There is no Г in font cmr10!
-Missing character: There is no Г in font cmr10!
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1119.
-
-Missing character: There is no Г in font cmr10!
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1119.
-
-Missing character: There is no Г in font cmr10!
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1119.
-
-Missing character: There is no Г in font cmr10!
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1119.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1119.
-
-Missing character: There is no Г in font cmr10!
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1119.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1117.
 
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1119.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1117.
 
 Missing character: There is no Г in font cmr10!
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1119.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1117.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1119.
-
-Missing character: There is no Г in font cmr10!
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1119.
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1119.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1117.
 
 Missing character: There is no Г in font cmr10!
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1119.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1117.
 
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1119.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1117.
 
 Missing character: There is no Г in font cmr10!
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1119.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1117.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1117.
+
+Missing character: There is no Г in font cmr10!
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1117.
+
+Missing character: There is no Г in font cmr10!
+Missing character: There is no Г in font cmr10!
+Missing character: There is no Г in font cmr10!
+Missing character: There is no Г in font cmr10!
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1117.
+
+Missing character: There is no Г in font cmr10!
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1117.
+
+Missing character: There is no Г in font cmr10!
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1117.
+
+Missing character: There is no Г in font cmr10!
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1117.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1117.
+
+Missing character: There is no Г in font cmr10!
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1117.
+
+Missing character: There is no Г in font cmr10!
+Missing character: There is no Г in font cmr10!
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1117.
+
+Missing character: There is no Г in font cmr10!
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1117.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1117.
+
+Missing character: There is no Г in font cmr10!
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1117.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1117.
+
+Missing character: There is no Г in font cmr10!
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1117.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1117.
+
+Missing character: There is no Г in font cmr10!
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1117.
 
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 Missing character: There is no Г in font cmr10!
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1136.
+(babel)             in language  on input line 1117.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1136.
+(babel)             in language  on input line 1117.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1136.
+(babel)             in language  on input line 1117.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1136.
+(babel)             in language  on input line 1117.
 [24]
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1149.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1147.
 
 Missing character: There is no Г in font cmr10!
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1149.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1147.
 
 Missing character: There is no Г in font cmr10!
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1149.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1147.
 
 Missing character: There is no Г in font cmr10!
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 1149.
+LaTeX Warning: Command \CYRG invalid in math mode on input line 1147.
 
 Missing character: There is no Г in font cmr10!
-<4_9_0.png, id=304, 130.98938pt x 119.69719pt>
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 1171.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 1171.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 1171.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 1171.
+[25]
+<4_9_0.png, id=318, 130.98938pt x 119.69719pt>
 File: 4_9_0.png Graphic file (type png)
 <use 4_9_0.png>
-Package pdftex.def Info: 4_9_0.png  used on input line 1182.
+Package pdftex.def Info: 4_9_0.png  used on input line 1180.
 (pdftex.def)             Requested size: 145.11053pt x 132.60425pt.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1183.
+(babel)             in language  on input line 1191.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1183.
+(babel)             in language  on input line 1191.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1183.
+(babel)             in language  on input line 1191.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1183.
-[25]
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1196.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1196.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1196.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1196.
+(babel)             in language  on input line 1191.
  [26 <./4_9_0.png>]
-<4_9_1.png, id=321, 155.07938pt x 127.22531pt>
+<4_9_1.png, id=326, 155.07938pt x 127.22531pt>
 File: 4_9_1.png Graphic file (type png)
 <use 4_9_1.png>
-Package pdftex.def Info: 4_9_1.png  used on input line 1198.
+Package pdftex.def Info: 4_9_1.png  used on input line 1196.
 (pdftex.def)             Requested size: 145.11053pt x 119.0463pt.
-<4_9_2.png, id=322, 210.03468pt x 230.36063pt>
+<4_9_2.png, id=327, 210.03468pt x 230.36063pt>
 File: 4_9_2.png Graphic file (type png)
 <use 4_9_2.png>
-Package pdftex.def Info: 4_9_2.png  used on input line 1208.
+Package pdftex.def Info: 4_9_2.png  used on input line 1206.
 (pdftex.def)             Requested size: 145.11053pt x 159.15286pt.
-<4_9_3.png, id=323, 174.6525pt x 271.0125pt>
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 1208.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 1208.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 1208.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 1208.
+ [27 <./4_9_1.png> <./4_9_2.png>]
+<4_9_3.png, id=335, 174.6525pt x 271.0125pt>
 File: 4_9_3.png Graphic file (type png)
 <use 4_9_3.png>
-Package pdftex.def Info: 4_9_3.png  used on input line 1213.
+Package pdftex.def Info: 4_9_3.png  used on input line 1211.
 (pdftex.def)             Requested size: 145.11053pt x 225.18428pt.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1214.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1214.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1214.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1214.
- [27 <./4_9_1.png> <./4_9_2.png>]
-
-LaTeX Warning: Command \textendash invalid in math mode on input line 1229.
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 1229.
+LaTeX Warning: Command \textendash invalid in math mode on input line 1227.
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 1227.
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1236.
+(babel)             in language  on input line 1234.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1236.
+(babel)             in language  on input line 1234.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1236.
+(babel)             in language  on input line 1234.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1236.
+(babel)             in language  on input line 1234.
 [28 <./4_9_3.png>]
-Overfull \hbox (12.39328pt too wide) in paragraph at lines 1268--1271
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 1266.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 1266.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 1266.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 1266.
+ [29]
+Overfull \hbox (12.39328pt too wide) in paragraph at lines 1266--1269
 \T2A/fcm/m/n/10 В урав-не-нии Шре-дин-ге-ра сто-ит пер-вая про-из-вод-ная по вр
 е-ме-ни, по-то-му что по тео-ре-ме Нетер гамиальтониан-
  []
 
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 1301.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1301.
+
+Missing character: There is no п in font cmr7!
+Missing character: There is no р in font cmr7!
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 1303.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1303.
+
+Missing character: There is no п in font cmr7!
+Missing character: There is no р in font cmr7!
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 1305.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1305.
+
+Missing character: There is no п in font cmr7!
+Missing character: There is no р in font cmr7!
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 1307.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1307.
+
+Missing character: There is no п in font cmr7!
+Missing character: There is no р in font cmr7!
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 1309.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1309.
+
+Missing character: There is no п in font cmr7!
+Missing character: There is no р in font cmr7!
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 1312.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1312.
+
+Missing character: There is no п in font cmr7!
+Missing character: There is no р in font cmr7!
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1271.
+(babel)             in language  on input line 1313.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1271.
+(babel)             in language  on input line 1313.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1271.
+(babel)             in language  on input line 1313.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1271.
-[29]
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1319.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1319.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1319.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1319.
- [30]
-<5_8_0.png, id=350, 626.34pt x 140.02313pt>
+(babel)             in language  on input line 1313.
+[30]
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 1314.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1314.
+
+Missing character: There is no п in font cmr7!
+Missing character: There is no р in font cmr7!
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 1316.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1316.
+
+Missing character: There is no п in font cmr7!
+Missing character: There is no р in font cmr7!
+<5_8_0.png, id=357, 626.34pt x 140.02313pt>
 File: 5_8_0.png Graphic file (type png)
 <use 5_8_0.png>
-Package pdftex.def Info: 5_8_0.png  used on input line 1361.
+Package pdftex.def Info: 5_8_0.png  used on input line 1360.
 (pdftex.def)             Requested size: 483.69687pt x 108.13863pt.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1362.
+(babel)             in language  on input line 1361.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1362.
+(babel)             in language  on input line 1361.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1362.
+(babel)             in language  on input line 1361.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1362.
- [31]
+(babel)             in language  on input line 1361.
+[31]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1387.
+(babel)             in language  on input line 1386.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1387.
+(babel)             in language  on input line 1386.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1387.
+(babel)             in language  on input line 1386.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1387.
+(babel)             in language  on input line 1386.
  [32 <./5_8_0.png>]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1400.
+(babel)             in language  on input line 1399.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1400.
+(babel)             in language  on input line 1399.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1400.
+(babel)             in language  on input line 1399.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1400.
+(babel)             in language  on input line 1399.
  [33]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1400.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1400.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1399.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1399.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1400.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1400.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1399.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1399.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -2835,13 +2882,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1400.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1399.
  ) 
 Here is how much of TeX's memory you used:
- 42879 strings out of 492982
- 992167 string characters out of 6134896
- 1379004 words of memory out of 5000000
- 45563 multiletter control sequences out of 15000+600000
+ 42877 strings out of 492982
+ 992123 string characters out of 6134896
+ 1378939 words of memory out of 5000000
+ 45558 multiletter control sequences out of 15000+600000
  42702 words of font info for 90 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,14n,96p,2731b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2867,10 +2914,10 @@ gc/fcmri6z.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxf
 ont/line10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbo
 ls/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbol
 s/msbm10.pfb>
-Output written on main.pdf (33 pages, 1317887 bytes).
+Output written on main.pdf (33 pages, 1299312 bytes).
 PDF statistics:
- 475 PDF objects out of 1000 (max. 8388607)
- 370 compressed objects within 4 object streams
- 143 named destinations out of 1000 (max. 500000)
- 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 484 PDF objects out of 1000 (max. 8388607)
+ 378 compressed objects within 4 object streams
+ 147 named destinations out of 1000 (max. 500000)
+ 108 words of extra memory for PDF output out of 10000 (max. 10000000)
 
