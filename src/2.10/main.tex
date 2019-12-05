@@ -1,0 +1,53 @@
+%FOR PDFLATEX USE ONLY
+\documentclass[a4paper,14pt]{article}
+
+\usepackage{amssymb,amsmath} %math symbols
+
+\usepackage[margin=2cm, bottom=2cm]{geometry} %paper geometry
+
+\usepackage[utf8]{inputenc} %allows unicode (including russian) source file
+\usepackage[russian]{babel} %docment in russian-style
+\usepackage[utf8]{inputenc}
+\usepackage[unicode]{hyperref} %links inside of the text
+\usepackage[pdftex]{graphicx} %includegraphics pictures
+\usepackage{cmlgc} %bold text
+
+\usepackage{array} %arrays
+
+\usepackage{cancel}
+\usepackage{wrapfig}
+\usepackage{array}
+\usepackage{lipsum}
+\usepackage{esvect}
+\usepackage{longtable}
+\usepackage{verbatim} 
+\usepackage{multirow}
+\usepackage{hyperref}
+\usepackage{mathtools}
+\usepackage{subfig}
+\usepackage{calc}
+\usepackage{pgfplots,tikz,circuitikz}
+\usepackage{tkz-euclide}
+\usepackage{gensymb}
+
+
+
+\begin{document}
+
+\section*{2.10}
+\begin{center}
+	\LARGE{\textbf{Спектр и мощность излучения черного тела в $d + 1$ измерении}}
+\end{center}
+Излучение абсолютно черного тела в $(n|n > 1)$ пространстве -- известная задача, решение которой человечество уже нашло. Из статьи 2005 года $"$The blackbody radiation in a D-dimensional universes (dx.doi.org/10.1590/S1806-11172005000400007)$"$ видно, что спектр тела в $d+1$ мерном пространстве равен:
+\begin{equation*}
+	\rho_T(\nu) = 2 \left( \frac{\sqrt{\pi}}{c} \right) ^{d + 1} \frac{d}{\Gamma \left( \frac{d + 1}{2} \right)}\cdot\frac{h\nu^{d + 1}}{exp(h\nu / k_B T) - 1},
+\end{equation*}
+а энергия излучения на единицу площади равна:
+\begin{equation*}
+	\sigma_d T^{d + 2},
+\end{equation*}
+где $\sigma_d$ -- постоянная Стефана — Больцмана $d + 1$ мерного пространства, равная:
+\begin{equation*}
+	\sigma_d = \left( \frac{2}{c} \right) (\sqrt{\pi})^{d - 1} \frac{k_B^{d+2}}{h^{d + 1}} d (d + 1) \Gamma \left( \frac{D}{2} \right) \zeta(d + 2).
+\end{equation*}
+\end{document}
