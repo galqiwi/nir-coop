@@ -34,9 +34,37 @@
 
 \begin{document}
 
-\section*{2.10}
+\section*{3.3}
 \begin{center}
 	\LARGE{\textbf{Уравнения движения и лагранжиан электромагнитного поля.}}
 \end{center}
+
+Свойства поля характеризуются 4-потенциалом $A_i$ в кажоый точке пространства-времени. Он определен с точностью до $\frac{\delta f}{\delta x^i}$, где f -- произвольная функйия от координат и времени. Привычные нам величины -- векторы электрического и магнитных полей выражаются через тензор электромагнитного поля:
+\begin{equation*}
+	F_{\mu \nu} = \begin{pmatrix}
+		0 & E_x & E_y & E_z \\
+		-E_x & 0 & -B_z & B_y \\
+		-E_y & B_z & 0 & -B_x \\
+		-E_z & -B_y & B_x & 0
+	\end{pmatrix},
+\end{equation*}
+где тензор электромагнитного поля определяется через 4-потенциал, как:
+\begin{equation*}
+	\mathrm{F}_{\mu \nu} = \frac{\delta A_\nu}{\delta x^\mu} - \frac{\delta A_\mu}{\delta x^\nu}.
+\end{equation*}
+Лагранжиан электромагнитного поля равен:
+\begin{equation*}
+	L_{em} = -\frac{1}{4}F_{\mu \nu}F_{\mu \nu} + \frac{1}{c}j_\mu A_\mu.
+\end{equation*}
+Уравнения движения электромагнитного поля (которые, кстати, выводятся из Лагранжиана) известны под названием "уравнения Максвелла", и представляют из себя систему из 4 уравнений, описывающих эволюцию электромагнитного поля со временем (в си):
+\begin{equation*}
+	\begin{cases}
+		\nabla \cdot \mathbf{E} = \frac {\rho} {\varepsilon_0},\\
+		\nabla \cdot \mathbf{B} = 0,\\
+		\nabla \times \mathbf{E} = -\frac{\partial \mathbf{B}} {\partial t},\\
+		\nabla \times \mathbf{B} = \mu_0\left(\mathbf{J} + \varepsilon_0 \frac{\partial \mathbf{E}} {\partial t} \right).
+	\end{cases}
+\end{equation*}
+
 
 \end{document}
