@@ -788,13 +788,13 @@ $$(b(x), c(x))=0\Leftrightarrow b\left(-\frac{c_0}{c_1}\right)=0\Leftrightarrow 
 	\begin{align*}
 		D & u^i = 0 \\
 		& или      \\
-		\frac{d^2 x^i}{ds^2} + & Г_{jk}^i \frac{dx^j}{ds} \frac{dx^k}{ds} = 0 \\
+		\frac{d^2 x^i}{ds^2} + & \Gamma_{jk}^i \frac{dx^j}{ds} \frac{dx^k}{ds} = 0 \\
 	\end{align*}
 
-	где D - ковариантный диффиренциал, а $ Г_{jk}^i $ - символ Кристоффеля: 
+	где D - ковариантный диффиренциал, а $ \Gamma_{jk}^i $ - символ Кристоффеля: 
 
 	\begin{align*}
-		Г_{jk}^i = \frac{1}{2} g^{im} & ( \partial_{j} g_{km} + \partial_{k} g_{jm} - \partial_{m} g_{jk} ) \\
+		\Gamma_{jk}^i = \frac{1}{2} g^{im} & ( \partial_{j} g_{km} + \partial_{k} g_{jm} - \partial_{m} g_{jk} ) \\
 	\end{align*}
 
 	Решая их, можно получить уравнения движения частицы
@@ -804,22 +804,22 @@ $$(b(x), c(x))=0\Leftrightarrow b\left(-\frac{c_0}{c_1}\right)=0\Leftrightarrow 
 	Для получения уравнений поля следует с начала определить тензор кривизны пространства (тензор Римана). Рассмотрим изменение вектора $ A_k $ при параллельном переносе его вдоль бесконечно малого контура:
 
 	\begin{align*}
-		\Delta A_k = \oint \delta A_k = \oint Г_{kl}^i A_i dx^l 
-		= \frac{1}{2} [ & \partial_l (Г_{km}^i A_i) - \partial_m (Г_{kl}^i A_i)] \Delta S^{lm} = \\
-		= \frac{1}{2} [   \partial_l (Г_{km}^i) A_i - \partial_m (Г_{kl}^i) A_i + & (Г_{km}^i) \partial_l A_i - (Г_{kl}^i) \partial_m A_i ] \Delta S^{lm} = \\
+		\Delta A_k = \oint \delta A_k = \oint \Gamma_{kl}^i A_i dx^l 
+		= \frac{1}{2} [ & \partial_l (\Gamma_{km}^i A_i) - \partial_m (\Gamma_{kl}^i A_i)] \Delta S^{lm} = \\
+		= \frac{1}{2} [   \partial_l (\Gamma_{km}^i) A_i - \partial_m (\Gamma_{kl}^i) A_i + & (\Gamma_{km}^i) \partial_l A_i - (\Gamma_{kl}^i) \partial_m A_i ] \Delta S^{lm} = \\
 		= \frac{1}{2} R^i_{klm} & A_i \Delta S^{lm}
 	\end{align*}
 
 	где 
 
 	\begin{align*}
-		R^i_{klm} = \partial_l (Г_{km}^i) - \partial_m (Г_{kl}^i)  + Г_{km}^n Г_{nl}^i - Г_{kl}^n Г_{nm}^i
+		R^i_{klm} = \partial_l (\Gamma_{km}^i) - \partial_m (\Gamma_{kl}^i)  + \Gamma_{km}^n \Gamma_{nl}^i - \Gamma_{kl}^n \Gamma_{nm}^i
 	\end{align*}
 
 	Соответственно тензором Риччи и символом Риччи называются свертки тензора кривизны:
 
 	\begin{align*}
-		R_{km} = R^l_{klm} = \partial_l (Г_{km}^l) - \partial_m (Г_{kl}^l) & + Г_{km}^n Г_{nl}^l - Г_{kl}^n Г_{nm}^l \\
+		R_{km} = R^l_{klm} = \partial_l (\Gamma_{km}^l) - \partial_m (\Gamma_{kl}^l) & + \Gamma_{km}^n \Gamma_{nl}^l - \Gamma_{kl}^n \Gamma_{nm}^l \\
 		R  = g^{km} R_{km} &
 	\end{align*}
 
@@ -829,7 +829,7 @@ $$(b(x), c(x))=0\Leftrightarrow b\left(-\frac{c_0}{c_1}\right)=0\Leftrightarrow 
 		S_g = \int G \sqrt{-g} d^4 x
 	\end{align*}
 
-	причём G не должно содержать никаких производных $ g_{ij} $ выше первого порядка, т.е. G - функция только $ g_{ij} $ и $ Г_{ij}^k $ . Требуемый истинный скаляр составить при данных условиях невозможно, однако, следующий инвариантный интеграл представим в виде:
+	причём G не должно содержать никаких производных $ g_{ij} $ выше первого порядка, т.е. G - функция только $ g_{ij} $ и $ \Gamma_{ij}^k $ . Требуемый истинный скаляр составить при данных условиях невозможно, однако, следующий инвариантный интеграл представим в виде:
 
 	\begin{align*}
 		\int R \sqrt{-g} d^4 x = \int G \sqrt{-g} d^4 x + \int \partial_i ( \sqrt{-g} w^i ) d^4 x
@@ -838,7 +838,7 @@ $$(b(x), c(x))=0\Leftrightarrow b\left(-\frac{c_0}{c_1}\right)=0\Leftrightarrow 
 	где последний член при варьировании действия зануляется. Опусканием полной производной в выражении $ \sqrt{-g} \: R $ получаем искомый вид G:
 
 	\begin{align*}
-		G = g^{ik} ( Г_{il}^m Г_{km}^l - Г_{ik}^l Г_{lm}^m )
+		G = g^{ik} ( \Gamma_{il}^m \Gamma_{km}^l - \Gamma_{ik}^l \Gamma_{lm}^m )
 	\end{align*}
 
 	Теперь, для получения уравнений поля остаётся проварьировать суммарное действие системы:
@@ -892,10 +892,10 @@ $$(b(x), c(x))=0\Leftrightarrow b\left(-\frac{c_0}{c_1}\right)=0\Leftrightarrow 
 	Путём элементарных вычислений получаем выражение $t^{ik}$ через символы Кристоффеля:
 
 	\begin{align*}
-		t^{ik} = \frac{ \chi }{2} \{ ( g^{il} g^{km} - g^{ik} g^{lm} )( 2Г_{lm}^n Г_{np}^p - Г_{lp}^n Г_{mn}^p - Г_{ln}^n Г_{mp}^p ) + \\
-		+ g^{il} g^{mn} ( Г_{lp}^k Г_{mn}^p + Г_{mn}^k Г_{lp}^p - Г_{np}^k Г_{lm}^p - Г_{lm}^k Г_{np}^p ) + \\
-		+ g^{kl} g^{mn} ( Г_{lp}^i Г_{mn}^p + Г_{mn}^i Г_{lp}^p - Г_{np}^i Г_{lm}^p - Г_{lm}^i Г_{np}^p ) + \\
-		+ g^{lm} g^{np} ( Г_{ln}^i Г_{mp}^k - Г_{lm}^i Г_{np}^k ) \}
+		t^{ik} = \frac{ \chi }{2} \{ ( g^{il} g^{km} - g^{ik} g^{lm} )( 2\Gamma_{lm}^n \Gamma_{np}^p - \Gamma_{lp}^n \Gamma_{mn}^p - \Gamma_{ln}^n \Gamma_{mp}^p ) + \\
+		+ g^{il} g^{mn} ( \Gamma_{lp}^k \Gamma_{mn}^p + \Gamma_{mn}^k \Gamma_{lp}^p - \Gamma_{np}^k \Gamma_{lm}^p - \Gamma_{lm}^k \Gamma_{np}^p ) + \\
+		+ g^{kl} g^{mn} ( \Gamma_{lp}^i \Gamma_{mn}^p + \Gamma_{mn}^i \Gamma_{lp}^p - \Gamma_{np}^i \Gamma_{lm}^p - \Gamma_{lm}^i \Gamma_{np}^p ) + \\
+		+ g^{lm} g^{np} ( \Gamma_{ln}^i \Gamma_{mp}^k - \Gamma_{lm}^i \Gamma_{np}^k ) \}
 	\end{align*}
 
 	В силу того, что определённый таким образом $t^{ik}$ симметричен, сохраняется тензор момента импульса системы:
@@ -926,14 +926,14 @@ $$(b(x), c(x))=0\Leftrightarrow b\left(-\frac{c_0}{c_1}\right)=0\Leftrightarrow 
 \section*{3.9}
 
 \begin{center}
-	\LARGE{\textbf{колько времени нужно свету, чтобы вылететь из Солнца?}}\\
+	\LARGE{\textbf{Сколько времени нужно свету, чтобы вылететь из Солнца?}}\\
 \end{center}
 
 Оценим время, которое требуется фотону, чтобы вылететь из Солнца, таким образом: положим томсоновское рассеяние на свободном электроне самым распространённым типом рассеяния фотонов в недрах Солнца, его эффективное сечение $\sigma = 7 \cdot 10^{-29} \text{ м}^2$.
 
 Для оценки положим концентрацию электронов $n_e$ не зависящей от глубины. Длина свободного пробега фотона $\lambda = \frac{1}{n_e \sigma} = 2 \text{ см}$.
 
-Вследствие многократного рассеяния, путь фотона выглядит как случайное блуждание. Тогда время, за которое фотон переместится на радиус Солнца $R$, читается так:
+Вследствие многократного рассеяния, путь фотона выглядит как случайное блуждание. Тогда время, за которое фотон переместится на радиус Солнца $R$, считается так:
 $T = \frac{R^2}{\lambda c} = 10^3 \text{ лет}.$
 
 Полученная оценка является несколько заниженной. В действительности, конечно, томсоновский механизм реализуется в глубоких слоях Солнца, где концентрация электронов существенно выше средней, а при более низких температурах возможны более эффективные взаимодействия с веществом.
@@ -1111,8 +1111,8 @@ L = -\frac{1}{4} F_{\mu \nu} F^{\mu \nu} + i \overline{\psi} \cancel D \psi + h.
 	По аналогии с ОТО вводим символы Кристоффеля, тензор Риччи и действие для поля:
 
 	\begin{align*}
-	 	\tilde{Г}_{bc}^a= \frac{1}{2} \tilde g^{ad} ( \partial_b \tilde g_{dc}& + \partial_c \tilde g_{db} - \partial_d \tilde g_{bc}) \\
-	 	\tilde{R}_{ab} = \partial_c \tilde{Г}_{ab}^c - \partial_b \tilde{Г}_{ca}^c & + \tilde{Г}_{cd}^c \tilde{Г}_{ab}^d - \tilde{Г}_{bd}^c \tilde{Г}_{ac}^d \\
+	 	\tilde{\Gamma}_{bc}^a= \frac{1}{2} \tilde g^{ad} ( \partial_b \tilde g_{dc}& + \partial_c \tilde g_{db} - \partial_d \tilde g_{bc}) \\
+	 	\tilde{R}_{ab} = \partial_c \tilde{\Gamma}_{ab}^c - \partial_b \tilde{\Gamma}_{ca}^c & + \tilde{\Gamma}_{cd}^c \tilde{\Gamma}_{ab}^d - \tilde{\Gamma}_{bd}^c \tilde{\Gamma}_{ac}^d \\
 	 	S_g = \int \tilde{R}_{ab} & \tilde{g}^{ab} \sqrt{ |\tilde{g}| } d^5 x
 	\end{align*}
 
@@ -1143,7 +1143,7 @@ L = -\frac{1}{4} F_{\mu \nu} F^{\mu \nu} + i \overline{\psi} \cancel D \psi + h.
 	Уравнения движения примут вид:
 
 	\begin{align*}
-	 \tilde{U}^b \nabla_b \tilde{U}^a = \frac{d \tilde{U}^a}{ds} + \tilde{Г}_{bc}^a \tilde{U}^b \tilde{U}^c
+	 \tilde{U}^b \nabla_b \tilde{U}^a = \frac{d \tilde{U}^a}{ds} + \tilde{\Gamma}_{bc}^a \tilde{U}^b \tilde{U}^c
 	\end{align*}
 
 	Можно показать, что данные уравнения содержат в себе как и движение в электромагнитном поле в общей теории относительности, так и силу Лоренца. Не менее интересен ещё один результат, непосредственно вытекающий из данной системы. Выполнение уравнений движения требует того, чтобы удельный заряд частиц $ \frac{q}{m} $ был пропорционален $ \frac{dx^5}{ds_4} $, где в данном случае под $ ds_4 $ подразумевается $ ds_4 = g_{\mu \nu} dx^{\mu} dx^{\nu} $ четырёхмерный интервал. Таким образом, мы получаем, что заряд частицы определяется "скоростью" её движения в пятом измерении.
