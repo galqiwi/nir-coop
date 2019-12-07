@@ -227,12 +227,14 @@ L = \frac{m}{2}\left(\dot{r}^2 + r^2 \dot{\varphi}^2\right) - U(r)
 \begin{center}
 	\LARGE{\textbf{Чему "равна" сумма $\sum\limits_{n = 0}^{\infty}  n! x^n$ ?}}\\
 \end{center}
-
-Пусть $f(n) = n! x^n$
-
-Тогда заметим, что $f(n) = f(n-1) \cdot n \cdot x$
-
-Тогда для любого $N > 0$ с некоторого места $f(n) = f(n-1) \cdot N \Rightarrow \sum\limits_{n = 0}^{\infty} f(n) = \sum\limits_{n = 0}^{\infty}  n! x^n = \infty.$ 
+Легко видеть, что формально сумма расходится при любом $x\neq0$. Однако можно попробовать найти производящую функцию последовательности $n!$, что неформально и будет являться искомой "суммой". Итак, пусть
+$$f(x)=\sum_{n=0}^{\infty}n!\cdot x^n=\frac{1}{x}\sum_{n=0}^{\infty}n!\cdot x^{n+1}=\frac{1}{x}g(x)$$
+$$\begin{cases}
+g'(x)=\sum_{n=0}^{\infty}(n+1)!\cdot x^n=\frac{1}{x}\sum_{n=0}^{\infty}(n+1)!\cdot x^{n+1}=\frac{1}{x}(f(x)-1)\\
+g'(x)=x f'(x)+f(x)
+\end{cases}$$
+$$x^2 f'(x) + (x-1) f(x) + 1 = 0$$
+Если рассмотреть это как уравнение для обычной функции, то решения не выражаются в элементарных функциях, а в окрестности 0 решения существовать вообще не может. 
 
 \section*{1.7}
 \begin{center}
