@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.12.3)  7 DEC 2019 13:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.12.3)  8 DEC 2019 21:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1946,18 +1946,23 @@ Package babel Info: Redefining russian shorthand "|
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 641.
 [15]
+Overfull \hbox (27.98859pt too wide) in paragraph at lines 662--663
+[]\T2A/fcm/m/n/10 Инфляционные мо-де-ли рас-смат-ри-ва-ют-ся на стр. 233-250 Ко
+с-мо-ло-гия, URSS Москва, 2 изд., 2018 (С.Вайнберг)
+ []
+
 
 LaTeX Warning: Command \cyra invalid in math mode on input line 665.
 
 Missing character: There is no а in font cmr10!
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 709.
+(babel)             in language  on input line 705.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 709.
+(babel)             in language  on input line 705.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 709.
+(babel)             in language  on input line 705.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 709.
+(babel)             in language  on input line 705.
 [16]
 
 LaTeX Warning: Command \cyrp invalid in math mode on input line 750.
@@ -2381,7 +2386,7 @@ gc/fcmri6z.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxf
 ont/line10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbo
 ls/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbol
 s/msbm10.pfb>
-Output written on main.pdf (33 pages, 1300093 bytes).
+Output written on main.pdf (33 pages, 1300151 bytes).
 PDF statistics:
  484 PDF objects out of 1000 (max. 8388607)
  378 compressed objects within 4 object streams
